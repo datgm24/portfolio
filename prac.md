@@ -67,6 +67,8 @@ class CSClass {
 
  :link: [README](README.md)
 
+ :gear: ギア
+
 あいうえお。
 
 かきくけこ。
