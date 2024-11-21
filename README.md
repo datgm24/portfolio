@@ -27,9 +27,9 @@
 ## 作品リスト
 
 ### Jygain's Door
-[<img src="images/wallwalker.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/wall-walker)
+[<img src="images/wallwalker.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/jygain-door)
 
-[Jygain's Door](https://am1tanaka.itch.io/wall-walker)
+[Jygain's Door](https://am1tanaka.itch.io/jygain-door)
 
 次元の裏表を行き来できるドアを使って、次元嵐に飛ばされた仲間を救出するアクションパズルゲーム。
 
