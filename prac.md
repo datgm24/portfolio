@@ -1,23 +1,23 @@
-# ‘åŒ©o‚µ
-## ’†Œ©o‚µ
-### ¬Œ©o‚µ
+# å¤§è¦‹å‡ºã—
+## ä¸­è¦‹å‡ºã—
+### å°è¦‹å‡ºã—
 
 # dai
 
-–{•¶B
+æœ¬æ–‡ã€‚
 
-**‘¾Žš**
-*ŽÎ‘Ì*i“ú–{Œê‚Í–³Œø‚È‚±‚Æ‚ª‘½‚¢j
-~~Žæ‚èÁ‚µ~~
-**‘¾Žš‚Æ**___syatai___
-<sub>‰º•t‚«</sub>
-<sup>ã•t‚«</sup>
-<ins>‰ºü</ins>
-<b>HTML‚àŽg‚¦‚é</b>
+**å¤ªå­—**
+*æ–œä½“*ï¼ˆæ—¥æœ¬èªžã¯ç„¡åŠ¹ãªã“ã¨ãŒå¤šã„ï¼‰
+~~å–ã‚Šæ¶ˆã—~~
+**å¤ªå­—ã¨**___syatai___
+<sub>ä¸‹ä»˜ã</sub>
+<sup>ä¸Šä»˜ã</sup>
+<ins>ä¸‹ç·š</ins>
+<b>HTMLã‚‚ä½¿ãˆã‚‹</b>
 
-> ˆø—p
+> å¼•ç”¨
 
-`git status`‚ðŽg‚¤‚ÆA’Ç‰Á‚³‚ê‚½‚èA•ÏX‚µ‚½‰ÓŠ‚ð•\Ž¦‚µ‚Ü‚·B
+`git status`ã‚’ä½¿ã†ã¨ã€è¿½åŠ ã•ã‚ŒãŸã‚Šã€å¤‰æ›´ã—ãŸç®‡æ‰€ã‚’è¡¨ç¤ºã—ã¾ã™ã€‚
 
 ```csharp
 class CSClass {
@@ -25,52 +25,52 @@ class CSClass {
 }
 ```
 
-3‚Â‚ÌƒoƒbƒNƒNƒH[ƒg‚ÌŒã‚ë‚ÉA
-Œ¾Œê‚ðŽw’è‚·‚é‚ÆA
-‚»‚ÌŒ¾Œê‚É‚ ‚í‚¹‚Ä‘•ü‚³‚ê‚éB
-È—ª‚·‚é‚ÆAƒtƒHƒ“ƒg‚ª“™•‚É‚È‚é‚Ì‚ÝB
+3ã¤ã®ãƒãƒƒã‚¯ã‚¯ã‚©ãƒ¼ãƒˆã®å¾Œã‚ã«ã€
+è¨€èªžã‚’æŒ‡å®šã™ã‚‹ã¨ã€
+ãã®è¨€èªžã«ã‚ã‚ã›ã¦è£…é£¾ã•ã‚Œã‚‹ã€‚
+çœç•¥ã™ã‚‹ã¨ã€ãƒ•ã‚©ãƒ³ãƒˆãŒç­‰å¹…ã«ãªã‚‹ã®ã¿ã€‚
 
-[Žö‹Æƒy[ƒW](https://github.com/datgm24/design)
+[æŽˆæ¥­ãƒšãƒ¼ã‚¸](https://github.com/datgm24/design)
 
-<a href="https://github.com/datgm24/design">HTML‚à‰Â”\</a>
+<a href="https://github.com/datgm24/design">HTMLã‚‚å¯èƒ½</a>
 
 [README](README.md)
 
-![ƒXƒNƒVƒ‡](images/img00.jpg)
+![ã‚¹ã‚¯ã‚·ãƒ§](images/img00.jpg)
 
-<img src="images/img00.jpg" style="width:160px" alt="ƒXƒNƒVƒ‡">
+<img src="images/img00.jpg" style="width:160px" alt="ã‚¹ã‚¯ã‚·ãƒ§">
 
-- ƒWƒ‡[ƒWƒƒVƒ“ƒgƒ“
-- ƒWƒ‡ƒ“ƒAƒ_ƒ€ƒX
-- ƒg[ƒ}ƒXƒWƒFƒtƒ@[ƒ\ƒ“
+- ã‚¸ãƒ§ãƒ¼ã‚¸ãƒ¯ã‚·ãƒ³ãƒˆãƒ³
+- ã‚¸ãƒ§ãƒ³ã‚¢ãƒ€ãƒ ã‚¹
+- ãƒˆãƒ¼ãƒžã‚¹ã‚¸ã‚§ãƒ•ã‚¡ãƒ¼ã‚½ãƒ³
 
-1. ”ŽšƒŠƒXƒg
-1. ”ŽšƒŠƒXƒg‚Q
-1. ”ŽšƒŠƒXƒg‚R
+1. æ•°å­—ãƒªã‚¹ãƒˆ
+1. æ•°å­—ãƒªã‚¹ãƒˆï¼’
+1. æ•°å­—ãƒªã‚¹ãƒˆï¼“
 
-- ƒŒƒxƒ‹1
-  - ƒŒƒxƒ‹2
-    - ƒŒƒxƒ‹3
+- ãƒ¬ãƒ™ãƒ«1
+  - ãƒ¬ãƒ™ãƒ«2
+    - ãƒ¬ãƒ™ãƒ«3
 
-1. ”Žš
-   1. ”Žš2
-      1. ”Žš3
+1. æ•°å­—
+   1. æ•°å­—2
+      1. æ•°å­—3
 
-- [ ] ƒ^ƒXƒN
-- [ ] ƒ`ƒFƒbƒNƒŠƒXƒg
-- [x] ‚Å‚«‚½‚çx‚ð“ü—Í
+- [ ] ã‚¿ã‚¹ã‚¯
+- [ ] ãƒã‚§ãƒƒã‚¯ãƒªã‚¹ãƒˆ
+- [x] ã§ããŸã‚‰xã‚’å…¥åŠ›
 
 
-- :+1:ƒTƒ€ƒAƒbƒv
+- :+1:ã‚µãƒ ã‚¢ãƒƒãƒ—
 
 :smiley:
 
 :link:[README](README.md)
 
-‚ ‚¢‚¤‚¦‚¨B
+ã‚ã„ã†ãˆãŠã€‚
 
-‚©‚«‚­‚¯‚±B
+ã‹ããã‘ã“ã€‚
 
-’i—Ž‚ÍA1s‹ó‚¯‚éB
+æ®µè½ã¯ã€1è¡Œç©ºã‘ã‚‹ã€‚
 
 
