@@ -61,11 +61,11 @@ class CSClass {
 - [x] できたらxを入力
 
 
-- :+1:サムアップ
+- :+1: サムアップ
 
-:smiley:
+ :smiley: 
 
-:link:[README](README.md)
+ :link: [README](README.md)
 
 あいうえお。
 
