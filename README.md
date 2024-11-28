@@ -1,6 +1,6 @@
 # Portfolio
 
-- デジタルアーツ太郎
+- 田中　雄
 - 連絡先 Email [a@a.a](mailto:a@a.a)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
 
@@ -26,29 +26,41 @@
 
 ## 作品リスト
 
-- Minecart Rails
-- STORM OF BALLS
-- グラチェン！
 - パズル本
 - Godot研究ノート
 - Godot研究ノート2
 
-### Jygain's Door
-[<img src="images/wallwalker.png" alt="Wall Walker" style="height: 360px">](https://am1tanaka.itch.io/jygain-door)
 
-[Jygain's Door](https://am1tanaka.itch.io/jygain-door)
+### 次元ドア
+[<img src="images/jygain.png" alt="次元ドア" style="height: 360px">](https://am1tanaka.itch.io/jygain-door)
+
+[次元ドア - Jygain's Door -](https://am1tanaka.itch.io/jygain-door)
 
 次元の裏表を行き来できるドアを使って、次元嵐に飛ばされた仲間を救出するアクションパズルゲーム。
 
-- 開発環境：Godot4.2
-- 開発期間：2024/8/21-2/19
+- 開発環境：Godot Engine 4.2
+- 開発期間：2024/2/11-2/18
 - [Brackeys Game Jam 2024.1](https://itch.io/jam/brackeys-11)参加作品
   - [Overall 6位](https://itch.io/jam/brackeys-11/results)
 
-### 正箱
-[<img src="images/icon_shobako.gif" alt="正箱" style="height: 360px">](https://unityroom.com/games/shobako)
 
-[正箱-ShoBako-](https://unityroom.com/games/shobako)
+### Minecart Rails
+
+[<img src="images/minecart.png" alt="Minecart Rails" style="height: 360px">](https://am1tanaka.itch.io/minecart-rails)
+
+[Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
+
+レースが乗ったブロックを押して、トロッコから出口まで、レールをつなげましょう！倉庫番的パズルゲーム。
+
+- 開発環境：Godot Engine 4.3
+- 開発期間：2024/7/20-8/31 + 2週間程度
+- [Kenney Jam 2024](https://itch.io/jam/kenney-jam-2024)参加作品
+  - [Honorable mentions 4位](https://itch.io/jam/kenney-jam-2024/results/honorable-mentions)
+
+### STORM OF BALLS
+[<img src="images/storm.png" alt="STORM OF BALLS" style="height: 360px">]()
+
+[STORM OF BALLS]()
 
 「正」の字を左右に回転させて、迫ってくる部屋の壁の隙間を潜り抜けるアクションゲームです。
 
@@ -57,26 +69,55 @@
 - 1週間ゲームジャム「正」参加作品
   - 最高順位　総合40位 / サウンド21位 / 操作性18位
 
-### 溶岩洞窟 de ジャンプ！
-[<img src="images/yougan.png" alt="溶岩洞窟 de ジャンプ！" style="height: 360px">](https://cluster.mu/w/78551223-2a8d-4700-a409-128e628439d5)
+- 開発環境：Godot Engine 4.3
+- 開発期間：2024/9/10-9/16 + 2週間
+- [Brackeys Game Jam 2024.2](https://itch.io/jam/brackeys-12)参加作品
 
-[溶岩洞窟 de ジャンプ！](https://cluster.mu/w/78551223-2a8d-4700-a409-128e628439d5)
 
-動く床を上手にジャンプで渡って行って、洞窟の頂上を目指すclusterワールド。
+### グラチェン！
 
-- 開発環境：cluster
-- 開発期間：2021/8/13-8/15
-- [Cluster GAME JAM 2021 in SUMMER](https://www.contest.cluster.mu/gamejam2021summer-home)参加作品
-  - [ビジュアル部門賞](https://cluster.mu/sections/GAMEJAM2021SUMMER_VISUAL)
+[<img src="images/grachan.png" alt="グラチェン！" style="height: 360px">](https://godotplayer.com/games/grachan.png)
 
-### GET THE SHIP BACK!
-[<img src="images/gettheshipback.png" alt="Get The Ship Back！" style="height: 360px">](https://play.unity.com/mg/lego/builds-ln-1)
+[グラチェン！](https://godotplayer.com/games/grachan)
 
-[Get The Ship Back!](https://play.unity.com/mg/lego/builds-ln-1)
+画面の上下にある惑星の重力を切り替えて、UFOをステーションに導くワンキーアクションゲーム。
 
-- 開発環境：Unity + LEGO Microgame
-- 開発期間：2021/2/18-3/15
-- LEGO Microgame My First Game Jam 参加作品
+- 開発環境：Godot Engine 4.2
+- 開発期間：2024/6/24-6/28
+- [Godotでゆるっとゲーム制作祭](https://godotplayer.com/gamejams/2)参加作品
+
+
+### レベルアップ・ゲームプログラミング　パズルゲーム開発で初心者から中級者へ！
+
+[<img src="images/unity_book.jpg" alt="レベルアップ・ゲームプログラミング　パズルゲーム開発で初心者から中級者へ！" style="height: 360px">](https://nextpublishing.jp/book/17752.html)
+
+[レベルアップ・ゲームプログラミング　パズルゲーム開発で初心者から中級者へ！](https://nextpublishing.jp/book/17752.html)
+
+- 発行日：2024/5/17
+- 発行社：インプレス NextPublishing
+- ページ数：102
+
+
+### Godot Engine研究ノート２
+
+[<img src="images/godot_book2.png" alt="Godot Engine研究ノート２" style="height: 360px">](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=p5AtpL8eeWJQADewCMZYUV)
+
+[Godot Engine研究ノート２](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=p5AtpL8eeWJQADewCMZYUV)
+
+- 発行日：2024/11/2(技術書典17)
+- 発行社：自費出版
+- ページ数：112
+
+
+### Godot Engine研究ノート
+
+[<img src="images/godot_book.png" alt="Godot Engine研究ノート" style="height: 360px">](https://techbookfest.org/product/6xGjZaEjFH5DMV075xdpEn?productVariantID=L5ULDkScApgmbsvSM7RZv)
+
+[Godot Engine研究ノート](https://techbookfest.org/product/6xGjZaEjFH5DMV075xdpEn?productVariantID=L5ULDkScApgmbsvSM7RZv)
+
+- 発行日：2024/5/25(技術書典16)
+- 発行社：自費出版
+- ページ数：72
 
 
 ## 連絡先
