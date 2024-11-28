@@ -14,9 +14,6 @@
 - Godot Engine
   - 利用歴1年
   - オリジナルの個人作品の開発とゲームジャム参加経験あり
-- C/C++
-  - 利用歴5年
-  - コンソールで簡単なデータ処理プログラムを開発
 
 
 ## 取り組んでいるテーマ
@@ -59,6 +56,7 @@
 
 [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
+クリッカーゲーム要素を加えた、パワーアップブロック崩しゲーム。
 
 - 開発環境：Godot Engine 4.3
 - 開発期間：2024/9/10-9/16 + 2週間
@@ -67,7 +65,7 @@
 
 ### グラチェン！
 
-[<img src="images/grachan.png" alt="グラチェン！" style="height: 240px">](https://godotplayer.com/games/grachan.png)
+[<img src="images/grachan.png" alt="グラチェン！" style="height: 240px">](https://godotplayer.com/games/grachan)
 
 [グラチェン！](https://godotplayer.com/games/grachan)
 
@@ -84,6 +82,8 @@
 
 [レベルアップ・ゲームプログラミング　パズルゲーム開発で初心者から中級者へ！](https://nextpublishing.jp/book/17752.html)
 
+書籍やブログのチュートリアルを終えたものの、オリジナルゲームが作れないという人に向けたレベルアップ本。パズルゲームに登場するブロックに注目して、設計から実装までの具体的な資料や考え方を掲載。
+
 - 発行日：2024/5/17
 - 発行社：インプレス NextPublishing
 - ページ数：102
@@ -95,6 +95,8 @@
 
 [Godot Engine研究ノート２](https://techbookfest.org/product/4TTGRqssf60xCYKEEmNrQp?productVariantID=p5AtpL8eeWJQADewCMZYUV)
 
+Godot Engineの利用歴半年の著者が、ゲームジャムに参加するゲームを開発中に気づいたり、調べたことをまとめたTips本。
+
 - 発行日：2024/11/2(技術書典17)
 - 発行社：自費出版
 - ページ数：112
@@ -105,6 +107,8 @@
 [<img src="images/godot_book.png" alt="Godot Engine研究ノート" style="height: 360px">](https://techbookfest.org/product/6xGjZaEjFH5DMV075xdpEn?productVariantID=L5ULDkScApgmbsvSM7RZv)
 
 [Godot Engine研究ノート](https://techbookfest.org/product/6xGjZaEjFH5DMV075xdpEn?productVariantID=L5ULDkScApgmbsvSM7RZv)
+
+はじめてGodot Engineでゲームジャムのためのゲームを開発した著者が気づいたり、調べたことをまとめたTips本。
 
 - 発行日：2024/5/25(技術書典16)
 - 発行社：自費出版
