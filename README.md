@@ -29,7 +29,7 @@
 
 
 ### 次元ドア
-[<img src="images/jygain.png" alt="次元ドア" style="height: 360px">](https://am1tanaka.itch.io/jygain-door)
+[<img src="images/jygain.png" alt="次元ドア" style="height: 240px">](https://am1tanaka.itch.io/jygain-door)
 
 [次元ドア - Jygain's Door -](https://am1tanaka.itch.io/jygain-door)
 
@@ -43,7 +43,7 @@
 
 ### Minecart Rails
 
-[<img src="images/minecart.png" alt="Minecart Rails" style="height: 360px">](https://am1tanaka.itch.io/minecart-rails)
+[<img src="images/minecart.png" alt="Minecart Rails" style="height: 240px">](https://am1tanaka.itch.io/minecart-rails)
 
 [Minecart Rails](https://am1tanaka.itch.io/minecart-rails)
 
@@ -55,7 +55,7 @@
   - [Honorable mentions 4位](https://itch.io/jam/kenney-jam-2024/results/honorable-mentions)
 
 ### STORM OF BALLS
-[<img src="images/storm.png" alt="STORM OF BALLS" style="height: 360px">](https://am1tanaka.itch.io/storm-of-balls)
+[<img src="images/storm.png" alt="STORM OF BALLS" style="height: 240px">](https://am1tanaka.itch.io/storm-of-balls)
 
 [STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
@@ -67,7 +67,7 @@
 
 ### グラチェン！
 
-[<img src="images/grachan.png" alt="グラチェン！" style="height: 360px">](https://godotplayer.com/games/grachan.png)
+[<img src="images/grachan.png" alt="グラチェン！" style="height: 240px">](https://godotplayer.com/games/grachan.png)
 
 [グラチェン！](https://godotplayer.com/games/grachan)
 
