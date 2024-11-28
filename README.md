@@ -55,9 +55,9 @@
   - [Honorable mentions 4位](https://itch.io/jam/kenney-jam-2024/results/honorable-mentions)
 
 ### STORM OF BALLS
-[<img src="images/storm.png" alt="STORM OF BALLS" style="height: 360px">]()
+[<img src="images/storm.png" alt="STORM OF BALLS" style="height: 360px">](https://am1tanaka.itch.io/storm-of-balls)
 
-[STORM OF BALLS]()
+[STORM OF BALLS](https://am1tanaka.itch.io/storm-of-balls)
 
 
 - 開発環境：Godot Engine 4.3
